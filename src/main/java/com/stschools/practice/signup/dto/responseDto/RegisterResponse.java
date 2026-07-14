@@ -1,4 +1,4 @@
-package com.stschools.practice.signup.dto;
+package com.stschools.practice.signup.dto.responseDto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

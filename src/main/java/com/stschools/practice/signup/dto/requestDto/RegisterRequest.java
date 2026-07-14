@@ -1,4 +1,4 @@
-package com.stschools.practice.signup.dto;
+package com.stschools.practice.signup.dto.requestDto;
 
 import lombok.Data;
 import lombok.RequiredArgsConstructor;
